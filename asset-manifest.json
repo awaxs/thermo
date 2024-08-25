@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thermo/static/css/main.e0c99de2.css",
-    "main.js": "/thermo/static/js/main.aceeb45f.js",
+    "main.js": "/thermo/static/js/main.f33bab2d.js",
     "static/media/thermo.jpg": "/thermo/static/media/thermo.4d4bfd0d65b249a8be80.jpg",
     "index.html": "/thermo/index.html",
     "main.e0c99de2.css.map": "/thermo/static/css/main.e0c99de2.css.map",
-    "main.aceeb45f.js.map": "/thermo/static/js/main.aceeb45f.js.map"
+    "main.f33bab2d.js.map": "/thermo/static/js/main.f33bab2d.js.map"
   },
   "entrypoints": [
     "static/css/main.e0c99de2.css",
-    "static/js/main.aceeb45f.js"
+    "static/js/main.f33bab2d.js"
   ]
 }
